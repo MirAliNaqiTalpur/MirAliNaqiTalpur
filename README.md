@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MirAliNaqiTalpur
-- 👀 I’m interested in ...Data Analytics and Geographicn Informaiton System.
+- 👀 I’m interested in ...Data Analytics and Geographic Information System (GIS).
 - 🌱 I’m currently learning ...Python and SQL.  
 - 💞️ I’m looking to collaborate on ...GIS and Map Making, Data Analytics
 - 📫 How to reach me ...antalpur@gmail.com
